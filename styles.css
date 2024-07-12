@@ -1,4 +1,4 @@
-/* Reset default styles */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -12,7 +12,7 @@ body {
     padding: 0;
 }
 
-/* Navbar styles */
+
 header {
     background-color: #333;
     color: #fff;
@@ -62,7 +62,7 @@ nav ul li a:hover {
     background-color: #555;
 }
 
-/* Content styles */
+
 .content {
     width: 90%;
     max-width: 1200px;
